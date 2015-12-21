@@ -1,0 +1,28 @@
+name: HarrisonVault
+favicon: null
+layout_spectrum: 0.5349933858960867
+typography_spectrum: 0.037765685468912125
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.23821167461574078
+  lightness: 0.7297018286772072
+  saturation: 0.7018733674194664
+  rhythmicContrast: 0.2641986105591059
+purpose: []
