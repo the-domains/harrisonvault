@@ -2,6 +2,7 @@ name: HarrisonVault
 favicon: null
 layout_spectrum: 0.5349933858960867
 typography_spectrum: 0.25838
+title: HarrisonVault
 cta:
   domain: null
   bucket: null
